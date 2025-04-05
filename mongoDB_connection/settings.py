@@ -54,7 +54,7 @@ MIDDLEWARE = [
 
 # CORS Settings (for React Native)
 CORS_ALLOW_ALL_ORIGINS = True  # For development only
-For production, use:
+#For production, use:
 CORS_ALLOWED_ORIGINS = [
   "http://localhost:19006",
     "exp://your-ip:19000",
